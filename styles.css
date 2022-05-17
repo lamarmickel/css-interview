@@ -1,0 +1,28 @@
+div {
+border: 3px solid blue;
+
+}
+
+h1 {
+font-style: oblique; 
+}
+
+
+img {
+    border-radius: 50px;
+}
+
+div {padding: 25px;
+    background-color: bisque; 
+}
+
+
+li {
+    font-style: italic;
+    margin: 10px;
+}
+
+
+h1 {
+    text-align: center;
+}
